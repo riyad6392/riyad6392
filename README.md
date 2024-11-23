@@ -21,4 +21,9 @@ Feel free to reach out to me via email or connect with me on LinkedIn!
   
 I'm always open to discussing new opportunities, collaboration ideas, or just having a chat about technology and programming. Looking forward to hearing from you! 😊
 
+## Codeforces Stat Visualization
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=riyad6392)](https://codeforces.com/profile/riyad6392)
+## LeetCode Stats Card
+[![Leetcode Stats](https://leetcard.jacoblin.cool/riyad6392)](https://leetcode.com/riyad6392)
+
 
