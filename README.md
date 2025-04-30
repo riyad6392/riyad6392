@@ -4,7 +4,7 @@
 I am an enthusiastic, reliable, responsible, and hard-working person. I am able to work well both in a team environment as well as using my own initiative. I love programming and I am a competitive programmer.
 
 ## About Me
-- 🔭 I'm a junior software engineer at mediusware ltd, passionate about web development and competitive programming. 
+- 🔭 I'm a software engineer at Brain station 23, passionate about web development and competitive programming. 
 - 🌱 I love solving problems and learning new technologies.
 - 👯 I’m looking to collaborate on open-source projects related to web development or machine learning.
 - 💬 Ask me about programming languages like C++, C or PHP, Python, Java, and I'll be happy to help!
